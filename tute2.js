@@ -1,0 +1,8 @@
+console.time('Your code took')
+console.log('Hello Console Ankit')
+console.log(34*8)
+console.log([10,11,12,13])
+console.table({larry: 'this is ankit negi from backend',marks: 45})
+console.log('this is a warning message')
+console.timeEnd('Your code took')
+console.error('I have genreated an error')
