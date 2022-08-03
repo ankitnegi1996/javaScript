@@ -48,7 +48,10 @@ console.log(number2,(typeof number2));
 let number3=parseFloat('34.98')
 console.log(number3.toFixed(10),(typeof number3));
 
-
+//type coercion
+let mystr="698"
+let mynum=34;
+console.log(mystr +mynum)
 
 
 
